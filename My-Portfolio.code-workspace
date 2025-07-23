@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Pictures/Camera Roll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My-Portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
